@@ -7,13 +7,15 @@ Answer the following questions based on your understanding of software engineeri
 
 Questions:
 Define Software Engineering:
-Answer: Software Engineering is the systematic application of engineering approaches to the development of software which involves the use of principles from engineering, computer science, project management, and other fields to design, develop, maintain, test, and evaluate software systems.
+
+Software Engineering is the systematic application of engineering approaches to the development of software which involves the use of principles from engineering, computer science, project management, and other fields to design, develop, maintain, test, and evaluate software systems.
 
 
 What is software engineering, and how does it differ from traditional programming?
 Software Development Life Cycle (SDLC):
 
 How software engineering differs from Traditional Programming:
+
     1. In terms of Scope and Scale: Software engineering deals with large-scale, complex software systems, while traditional programming might focus on smaller, individual programs.
     2. Methodologically, Software engineering uses formal methodologies and processes (like SDLC, Agile) to ensure software quality and reliability, while traditional programming might not.
     3. Team Collaboration: Software engineering often involves collaborative work in teams, using version control systems and project management tools, unlike solo programming.
@@ -23,7 +25,8 @@ How software engineering differs from Traditional Programming:
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
 Agile vs. Waterfall Models:
-ANSWER: Software Development Life Cycle (SDLC) is a structured process for developing software. It includes Various phases as highlighted below.
+ANSWER:
+Software Development Life Cycle (SDLC) is a structured process for developing software. It includes Various phases as highlighted below.
     1. Requirement Analysis: Gathering and analyzing business needs and requirements.
     2. Design: Creating system architecture and design specifications.
     3. Implementation (Coding): Writing the actual code based on design documents.
